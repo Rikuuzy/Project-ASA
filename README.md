@@ -2,6 +2,7 @@
 **Disusun oleh:**
 - **Nama:** Hadrian Shandhy Yudha
 - **NIM:** 24060124140207
+
 Selection of the Void Suit in Suichan Mahjong From Game: Neverness to Everness
 
 # Analisis Perbandingan Algoritma Greedy, Dynamic Programming, dan Monte Carlo Tree Search dalam Penentuan Void Suit Sichuan Mahjong pada Game Neverness to Everness
